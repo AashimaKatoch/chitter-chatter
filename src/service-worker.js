@@ -1,6 +1,7 @@
 /* eslint-disable no-restricted-globals */
 
 // This service worker can be customized!
+/* eslint-disable */
 // See https://developers.google.com/web/tools/workbox/modules
 // for the list of available Workbox modules, or add any other
 // code you'd like.
